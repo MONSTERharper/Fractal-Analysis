@@ -1,3 +1,5 @@
+![error](/images/logo.png)
+
 # Fractal-Analysis
 Using Detrended Fluctuation Analysis and Hurst exponent
 
